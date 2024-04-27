@@ -84,9 +84,9 @@ function Home({announcements, dataCards}) {
       <Head>
         <title>Sycamores Stake Young Men Camp</title>
       </Head>
-      <PrimaryButton type="link" className="absolute top-2 md:top-5" link={{ url: "https://www.sycamoresstake.com/" }}>
+      <PrimaryButton type="link" className="absolute top-2 md:top-5" link={{ url: "https://young-men.sycamoresstake.com/" }}>
         <Icon name="chevron-left" className="h-5 w-5" />
-        <span className="mr-2 text-sm uppercase font-semibold">Back to Stake Site</span>
+        <span className="mr-2 text-sm uppercase font-semibold">Back to YM Site</span>
       </PrimaryButton>
       <div className="pt-16">
         <HeroCard {...dataSundayMeeting} />

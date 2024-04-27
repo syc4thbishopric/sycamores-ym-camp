@@ -22,11 +22,11 @@ const Footer = () => {
             It is operated by members of the <span className="whitespace-nowrap">{config.wardName}</span>.
             <br />
             <a
-              href="https://www.sycamoresstake.com"
+              href="https://young-men.sycamoresstake.com/"
               className="whitespace-nowrap text-primary-500 hover:text-primary-900"
               rel="noreferrer"
             >
-              Return to Stake Website
+              Return to YM Website
             </a>
           </p>
         </div>
